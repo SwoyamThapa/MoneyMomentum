@@ -1,13 +1,5 @@
-// Name: Swoyam Thapa
-// Course: CSCI 2003 Spring 2023 - 60358
-// Instructor: Kim Taylor
-// File name: MonthlyFinance.java
-//
-// Program Description: MonthlyFinance class that allows you to put your income, expenses and expected savings for the month
-//                      and it will calculate the savings you has and if your expected savings was reached or not.
-
 /**
-   MonthlyFinance class that allows you to put your inxom, expenses and expected savings for the month
+   MonthlyFinance class that allows you to put your income, expenses and expected savings for the month
    and it will calculate the savings you has and if your expected savings was reached or not.
 */
 
